@@ -52,7 +52,7 @@ https://github.com/Youcef970/password-strength-analyzer.git
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/password-strength-analyzer.git
+git clone https://github.com/Youcef970/password-strength-analyzer.git
 
 # Navigate to project
 cd password-strength-analyzer
